@@ -1,0 +1,39 @@
+.instructions-list {
+    width: 40%;
+    margin-top: 20px;
+
+    border-style: double;
+    border-radius: 10px;
+    border-color: #1f7704;
+
+
+}
+.instruction {
+    margin: 10px;
+    letter-spacing: 0.5px;
+    color: rgb(27, 66, 12);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.instructions-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
+.pose-demo-img {
+
+    width:25%;
+    /* aspect-ratio: 1;
+    border-radius: 15px; */
+}
+h3{
+    text-align: center;
+    color: rgb(27, 66, 12);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+}

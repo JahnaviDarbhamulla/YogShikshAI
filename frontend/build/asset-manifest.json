@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5161057b.chunk.css",
+    "main.js": "/static/js/main.8b956f1d.chunk.js",
+    "main.js.map": "/static/js/main.8b956f1d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ecb369bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ecb369bf.js.map",
+    "static/js/2.a1b831d0.chunk.js": "/static/js/2.a1b831d0.chunk.js",
+    "static/js/2.a1b831d0.chunk.js.map": "/static/js/2.a1b831d0.chunk.js.map",
+    "static/js/3.8677b9e8.chunk.js": "/static/js/3.8677b9e8.chunk.js",
+    "static/js/3.8677b9e8.chunk.js.map": "/static/js/3.8677b9e8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5161057b.chunk.css.map": "/static/css/main.5161057b.chunk.css.map",
+    "static/js/2.a1b831d0.chunk.js.LICENSE.txt": "/static/js/2.a1b831d0.chunk.js.LICENSE.txt",
+    "static/media/DropDown.css": "/static/media/chair.02d91ab8.png",
+    "static/media/chair1.cc353113.png": "/static/media/chair1.cc353113.png",
+    "static/media/cobra.fcbccbd9.jpg": "/static/media/cobra.fcbccbd9.jpg",
+    "static/media/count.f89c5fa1.wav": "/static/media/count.f89c5fa1.wav",
+    "static/media/dog1.png.3b145bff.png": "/static/media/dog1.png.3b145bff.png",
+    "static/media/shoulderstand.784f28f4.jpg": "/static/media/shoulderstand.784f28f4.jpg",
+    "static/media/tree1.00233f0d.png": "/static/media/tree1.00233f0d.png",
+    "static/media/triangle.cd57d742.png": "/static/media/triangle.cd57d742.png",
+    "static/media/warrior2.d4be732e.png": "/static/media/warrior2.d4be732e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecb369bf.js",
+    "static/js/2.a1b831d0.chunk.js",
+    "static/css/main.5161057b.chunk.css",
+    "static/js/main.8b956f1d.chunk.js"
+  ]
+}
